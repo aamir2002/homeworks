@@ -1,3 +1,7 @@
+https://aamir2002.github.io/homeworks/3.arrays/index.html
+
+https://aamir2002.github.io/homeworks/3.arrays/test-runner.html
+
 # Задание «Массивы»
 
 ### Задача 1. Сравнить массивы

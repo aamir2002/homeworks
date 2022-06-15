@@ -11,7 +11,7 @@ C помощью SELECT выведите всех пассажиров, кото
 Обязательные поля для вывода: ID пассажира, Имя пассажира как `PASSENGER_NAME`, Название самолета и название компании
 как `COMPANY_NAME`.
 
-<!-- ЗАКРЕПИТЕ ВАШ SELECT ОТ 1 ЗАДАНИЯ ЗДЕСЬ -->
+SELECT passenger.id, passenger.name, plane, company.name FROM passenger, trip, company WHERE plane = 'Boeing' AND company.name = 'air_France'   
 
 ### Задание 2.
 
